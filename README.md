@@ -28,7 +28,7 @@ A simple web application that analyzes PDF files and provides detailed text stat
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/PDFScope.git
+   git clone https://github.com/60yusuf60/PDFScope.git
    ```
 2. Install dependencies
    ```
